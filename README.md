@@ -26,6 +26,8 @@ This will create a better version of a color map and utilizes Fractal Brown moti
 ## Conclusion
 I do want to somehow make this work with tiles where you would use a perlin noise map to determine where to place a tile, but so far I haven’t figured it out yet. My professor gave an idea of getting a matrix, like a 8x8 size for example, and calculating the average of that to determine what tile to use in that spot. Another idea I had which was how I was going to do it originally was to multiply a separate image by the size of the tiles and place it in a way similar to how you would use color map, but this would take longer and just add more unnecessary code.
 
+I did accomplish in wanting to learn more about procedural generation and implementing it into a different language. The main problem I had was going into Python with the headspace of JES, which had functions that Python didn't, so I had to learn how to do things with images and incorporating different libraries I didn't know existed but still using that with what I have learned in the past.
+
 ## Links to Raufs blog
 [Perlin Noise: A Procedural Generation Algorithm](https://rtouti.github.io/graphics/perlin-noise-algorithm)
 
